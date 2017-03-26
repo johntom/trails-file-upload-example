@@ -20,6 +20,8 @@ module.exports = {
 
   MessageController: {
     send: [ 'MessagePolicy.single' ]
+   
   }
 
+ // , multi: [ 'MessagePolicy.multi' ]
 }

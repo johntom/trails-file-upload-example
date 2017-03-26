@@ -33,6 +33,18 @@ module.exports = [
     method: [ 'POST' ],
     path: '/message',
     handler: 'MessageController.send'
+  },
+
+  {
+    method: [ 'POST' ],
+    path: '/messages',
+    handler: 'MessageController.send'
+  },
+  {
+    method: [ 'POST' ],
+    path: '/upload',
+    handler: 'UploadController.uploadfiles'
   }
+
 
 ]

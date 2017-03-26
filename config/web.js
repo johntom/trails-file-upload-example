@@ -20,7 +20,7 @@ module.exports = {
    * Can be true/false or an object of CORS options
    * @see {@link https://github.com/expressjs/cors#configuring-cors}
    */
-  cors: false,
+  cors: true,//false,
 
   /**
    * Middlewares to load (in order)
