@@ -10,8 +10,8 @@ I created this fork because I made subtle errors while tring to implement in my 
 
 
 
-![Aurelia/Trials upload](https://github.com/johntom/trails-file-upload-example/uploadart.jpg "Aurelia/Trials upload")
-
+![Aurelia/Trials upload](https://github.com/johntom/trails-file-upload-examplehttps://github.com/johntom/trails-file-upload-example/blob/master/uploadart.jpg "Aurelia/Trials 
+upload")
 
 # end of fork description
 
