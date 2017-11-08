@@ -1,5 +1,5 @@
 # Trails File Upload Example Fork
-
+ yo trails:controller Walkdir
 This is a fork of https://github.com/trailsjs/trails-file-upload-example
 I created this fork because I made subtle errors while tring to implement in my backend server
 1. I create a new UploadController which does not rely on policy
