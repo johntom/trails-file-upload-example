@@ -5,10 +5,10 @@ I created this fork because I made subtle errors while tring to implement in my 
 1. I create a new UploadController which does not rely on policy
 2. I defaulted to an array of uploads to handle 1 or more files on payload and saved file with original name. 
 3. I removed the view from the controller as my server are always seperated from views
-4. I will publish aurelia front asap as shown below with server console shown on right
-5. Make sure your id or name used in html client matches name used for upload on server. see http://stackoverflow.com/questions/31530200/node-multer-unexpected-field
 
-6. see https://github.com/johntom/aurelia-upload for aurelia frontend companion
+4. Make sure your id or name used in html client matches name used for upload on server. see http://stackoverflow.com/questions/31530200/node-multer-unexpected-field
+
+5. see https://github.com/johntom/aurelia-upload for aurelia frontend companion
 
 ![Aurelia/Trials upload](https://github.com/johntom/trails-file-upload-example/blob/master/uploadart.jpg "Aurelia/Trials 
 upload")
